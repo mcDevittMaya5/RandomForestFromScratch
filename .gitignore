@@ -123,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+CT4101_Assignment2_random_forest_PaulKielty_MayaMcDevitt.py
+code.pdf
+.gitignore
